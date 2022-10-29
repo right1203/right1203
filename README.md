@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @right1203
+- 👀 I’m interested in Data Engineering and Data analysis.
+- 🌱 I’m currently learning Kubernetes, Docker, Terraform.
+- 📫 How to reach me right1203@gmail.com
